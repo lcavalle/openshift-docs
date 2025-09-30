@@ -11,7 +11,7 @@ include::modules/security-rhcos-overview.adoc[leveloffset=+1]
 [role="_additional-resources"]
 .Additional resources
 
-* xref:../../../architecture/architecture-rhcos.adoc#rhcos-about_architecture-rhcos[About RHCOS]
+* xref:../../../architecture/architecture-rhcos.adoc#rhcos-about[About RHCOS]
 
 * xref:../../../architecture/architecture-rhcos.adoc[Red Hat Enterprise Linux CoreOS (RHCOS)]
 
